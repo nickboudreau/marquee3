@@ -4,7 +4,7 @@ i wanted a marquee screen saver that i could customize with a list of strings or
 
 ##### What it does:
 * there is a preview window in the screen saver settings 
-* you can supply a text file with multiple lines of text. the screen saver will cycle through each line of the text file.
+* you can supply a text file with multiple lines of text. the screen saver will cycle through each line of the text file
 * or set a single line message without the a text file
 * set font, font size, and font colour
 * change marquee speed
@@ -20,7 +20,7 @@ i wanted a marquee screen saver that i could customize with a list of strings or
       ```
 3. rename marquee3\marquee3\publish\marquee3.exe to marquee3.scr
 4. copy marquee3.scr to C:\Windows\System32\\
-5. now in Windows open Screen Saver Settings and configure as desired.
+5. now in Windows open Screen Saver Settings and configure as desired
 
 <img width="586" height="520" alt="Screenshot 2026-04-17 034457" src="https://github.com/user-attachments/assets/8f7db86b-c409-4d90-b21e-e247f8429be9" />
 
