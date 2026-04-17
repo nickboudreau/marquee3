@@ -1,3 +1,4 @@
+
 #### A simple marquee screen saver.
 
 * there is a preview window in the screen saver settings 
@@ -19,10 +20,11 @@
 4. copy marquee3.scr to C:\Windows\System32\\
 5. now in Windows open Screen Saver Settings and configure as desired.
 
- 
+<img width="586" height="520" alt="Screenshot 2026-04-17 034457" src="https://github.com/user-attachments/assets/8f7db86b-c409-4d90-b21e-e247f8429be9" />
 
 ##### i might:
 
 * add an option to randomize the order lines from the text file are displayed
 * vertical position is randomized. i might add an option to either set the vertical position or randomize it
 * i also might add a compiled .scr file to the releases section in case anyone wants to use this who isn't a developer
+
