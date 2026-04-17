@@ -21,4 +21,8 @@
 
  
 
-i might add an option to randomize the order lines from the text file are displayed. i also might add a compiled .scr file to the releases section in case anyone wants to use this who isn't a developer.
+##### i might:
+
+* add an option to randomize the order lines from the text file are displayed
+* vertical position is randomized. i might add an option to either set the vertical position or randomize it
+* i also might add a compiled .scr file to the releases section in case anyone wants to use this who isn't a developer
