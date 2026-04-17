@@ -1,6 +1,8 @@
 
 #### A simple marquee screen saver.
+i wanted a marquee screen saver that i could customize with a list of strings or quotes, and that i could customize a bit. i couldn't find anything that does what i wanted so i made my own. making the repo public in case anyone else wants to use it.
 
+##### What it does:
 * there is a preview window in the screen saver settings 
 * you can supply a text file with multiple lines of text. the screen saver will cycle through each line of the text file.
 * or set a single line message without the a text file
