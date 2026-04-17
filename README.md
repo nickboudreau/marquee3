@@ -1,7 +1,7 @@
 #### A simple marquee screen saver.
 
-* preview window in screen saver Settings to view
-* supply a text file with multiple lines of text. the screen saver will cycle through each line of the text file.
+* there is a preview window in the screen saver settings 
+* you can supply a text file with multiple lines of text. the screen saver will cycle through each line of the text file.
 * or set a single line message without the a text file
 * set font, font size, and font colour
 * change marquee speed
